@@ -1,0 +1,2 @@
+# JavaScriptExample
+practice JavaScript
